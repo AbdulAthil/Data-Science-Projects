@@ -4,4 +4,3 @@
   ## Pandas
   ## Matplotlib
   ## Seaborn
-  ## Plotly
